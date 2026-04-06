@@ -1,2 +1,1 @@
-# UxProtytypingAgain
-야르으
+# CourseUXPrototyping
